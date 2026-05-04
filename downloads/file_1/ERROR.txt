@@ -1,0 +1,22 @@
+========================================================
+  AVASAM Download Error Report
+  https://avasam.ir
+========================================================
+
+File: file_1.mp4%60
+URL: https://api.telegram.org/file/bot8644234621:AAHVB-QiWCuMV--op17OTSlp7i1B1Hbsw_M/https://api.telegram.org/file/bot8644234621:AAHVB-QiWCuMV--op17OTSlp7i1B1Hbsw_M/videos/file_1.mp4%60
+Date: 2026-05-04 19:25:12 UTC
+
+ERROR:
+#=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
+
+========================================================
+  Possible Solutions:
+========================================================
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
+========================================================
