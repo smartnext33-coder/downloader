@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [inshot_%DB%B2%DB%B0%DB%B2%DB%B6%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B7%DB%B4%DB%B4%DB%B5%DB%B5%DB%B1%DB%B9%DB%B0_6twx](https://github.com/smartnext33-coder/downloader/tree/main/downloads/inshot_%DB%B2%DB%B0%DB%B2%DB%B6%DB%B0%DB%B4%DB%B2%DB%B9_%DB%B1%DB%B7%DB%B4%DB%B4%DB%B5%DB%B5%DB%B1%DB%B9%DB%B0_6twx)
+
+---
